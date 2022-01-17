@@ -3,5 +3,5 @@ Simple example showing how to send keyboard key presses to a computer using an A
 
 Use with this shield from Adafruit https://www.adafruit.com/product/1947
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/CaseyJScalf/Arduino-TFT-Cap-Touch-Screen-Key-Press/blob/main/ArduinoTFTKeyPress.jpg?raw=true)
 
